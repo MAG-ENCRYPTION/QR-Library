@@ -1,0 +1,11 @@
+{
+  "name": "qr-library",
+  "version": "1.0.0",
+  "description": "QR code generation library for URLs or text message",
+  "main": "index.js",
+  "author": "group-6",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
